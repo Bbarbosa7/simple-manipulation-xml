@@ -1,2 +1,2 @@
-# simple-manipulation-xml
-A simple example to how manipulate a XML file
+# Manipulating XML #
+A **simple** example to how manipulate a XML file
